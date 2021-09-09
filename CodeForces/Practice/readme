@@ -4,4 +4,4 @@ Problems are marked (IMP) if they
   - introduced a new concept
   - have multiple very different solutions
   - have much more efficient solutions than the one I used, and so need to be revisited
-  - have a description (duh)
+  - have a description (those 3 dots above the code/file showing commit changes)
