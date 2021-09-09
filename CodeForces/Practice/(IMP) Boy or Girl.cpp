@@ -18,7 +18,6 @@ int main() {
             continue;
         }
         if(s[i] == s[i - 1]){
-            continue;
         }
         else{
             count++;
