@@ -19,6 +19,7 @@ bool isEven(int x) {
     return false;
 }
 
+// O(n) time, O(1) space
 
 int main() {
     ios::sync_with_stdio(false);
